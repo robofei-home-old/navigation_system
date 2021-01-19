@@ -1,0 +1,3 @@
+[submodule "hera_nav"]
+	path = hera_nav
+	url = https://github.com/Home-Environment-Robot-Assistant/hera_nav
