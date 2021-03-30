@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo apt-get -y install ros-kinetic-map-server
+sudo apt-get -y install ros-melodic-map-server
 
 chmod +x scripts/*
